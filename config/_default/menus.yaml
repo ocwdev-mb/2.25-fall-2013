@@ -1,0 +1,57 @@
+leftnav:
+- identifier: 30e8bc05-9295-7bbc-645b-987d2b7ec560
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 39f6cac2-40c1-bf5d-b046-81b9894f0de9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 3fcfdad1-1e62-96bb-6260-e3cf2d650dfd
+  name: The Continuum Viewpoint and the Equations of Motion
+  pageRef: /pages/the-continuum-viewpoint-and-the-equations-of-motion
+  weight: 30
+- identifier: db94f9bc-6d8a-e9b8-3848-c09f9aa1c6ff
+  name: Fluid Statics
+  pageRef: /pages/fluid-statics
+  weight: 40
+- identifier: c8443c53-a0eb-0285-5b68-d67bfa778cea
+  name: Inviscid Flow and Bernoulli
+  pageRef: /pages/inviscid-flow-and-bernoulli
+  weight: 50
+- identifier: fbff7e9d-2f58-b539-80d8-8b4665b1f3ea
+  name: Control Volume Theorems and Applications
+  pageRef: /pages/control-volume-theorems-and-applications
+  weight: 60
+- identifier: d2514ce2-d6a0-cbfe-1129-3e826418df0b
+  name: Equations of Viscous Flow
+  pageRef: /pages/equations-of-viscous-flow
+  weight: 70
+- identifier: f85a0bcf-40ce-500c-98e1-a45d1c65cb5f
+  name: Dimensional Analysis
+  pageRef: /pages/dimensional-analysis
+  weight: 80
+- identifier: 45882126-68ea-5a24-72c2-0d207998eacb
+  name: More Complex Viscous-Dominated Flows
+  pageRef: /pages/more-complex-viscous-dominated-flows
+  weight: 90
+- identifier: 53f1bc6a-eaf9-05b5-f4d5-8c62ba355d8f
+  name: Potential Flow Theory
+  pageRef: /pages/potential-flow-theory
+  weight: 100
+- identifier: ea68260f-9d75-2aa9-035d-5c347476f313
+  name: Vorticity and Circulation
+  pageRef: /pages/vorticity-and-circulation
+  weight: 110
+- identifier: bcf976d3-f9f7-a5aa-2eeb-55ae4a078dc7
+  name: Boundary Layers, Separation, and Drag
+  pageRef: /pages/boundary-layers-separation-and-drag
+  weight: 120
+- identifier: 8da28f65-2f34-46df-77bc-23d5e02ce3ca
+  name: Surface Tension and Its Importance
+  pageRef: /pages/surface-tension-and-its-importance
+  weight: 130
+- identifier: 9682f263-e14e-49fb-36fb-276c11f41c22
+  name: Exams
+  pageRef: /pages/exams
+  weight: 140
